@@ -1,6 +1,10 @@
-### Hello there 👋
+<h2 align="center">
+  Hello there 👋
+</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isus-ipanienko&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isus-ipanienko&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align = "center"/>
+</p>
 
 <!--
 **isus-ipanienko/isus-ipanienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
