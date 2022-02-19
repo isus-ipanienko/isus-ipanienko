@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isus-ipanienko&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align = "center"/>
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs?username=isus-ipanienko&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&langs_count=6" align = "center"/>
 </p>
 
 <!--
